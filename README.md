@@ -19,4 +19,7 @@
 * ["Russia", "Denmark", "Kazan"] → []
 
   ##Ответ:
+  Изображение блок схемы:
+  https://github.com/Vikilight/Kontrolnaya/blob/main/shema.md
+  Решение задач:
   
