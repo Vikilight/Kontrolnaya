@@ -21,5 +21,7 @@
   ##Ответ:
   Изображение блок схемы:
   https://github.com/Vikilight/Kontrolnaya/blob/main/shema.md
-  Решение задач:
+  
+  Решение задач: https://github.com/Vikilight/Kontrolnaya/blob/main/zadacha/Program.cs
+  
   
